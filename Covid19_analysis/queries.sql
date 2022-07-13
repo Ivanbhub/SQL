@@ -1,5 +1,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-The 
+the link bellow shows visual output of some of the queries. 
+
+https://public.tableau.com/views/Covid19infectiondeathrateovertime/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 ----------------------------------------------------------------------------------------------------------------------------------
 -- 1
 SELECT *
